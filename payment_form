@@ -1,0 +1,9 @@
+<form method="GET" action="https://api.cryptonator.com/api/merchant/v1/startpayment">
+<input type="hidden" name="merchant_id" value="9d1efe89e71922bb09fcddd31d2a16eb">
+<input type="hidden" name="item_name" value="Классный товар">
+<input type="hidden" name="item_description" value="Кр 0.33 Новороссийск">
+<input type="hidden" name="invoice_currency" value="rur">
+<input type="hidden" name="invoice_amount" value="1500" data-type="number">
+<input type="hidden" name="language" value="ru">
+<input type="submit" value="Оплатить криптовалютой">
+</form>
