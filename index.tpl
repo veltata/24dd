@@ -256,11 +256,10 @@
 	</div>
 	<!-- Вся страница (The End)--> 
 	
-	<!-- Футер -->
-	<div id="footer">
-		<a href="http://simplacms.ru">Скрипт интернет-магазина Simpla</a>
-	</div>
-	<!-- Футер (The End)--> 
+	
+	<!-- Футер <div id="footer">
+		<a href="http://simplacms.ru">Скрипт интернет-магазина Simpla</a
+	</div> Футер (The End)--> 
 	
 </body>
 </html>
