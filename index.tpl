@@ -127,8 +127,8 @@
 	<!-- Верхняя строка (The End)-->
 	
 	
-	<!-- Шапка -->
-	<div id="header">
+	
+	<!-- Шапка<div id="header">
 		<div id="logo">
 			<a href="/"><img src="design/{$settings->theme|escape}/images/logo.png" title="{$settings->site_name|escape}" alt="{$settings->site_name|escape}"/></a>
 		</div>	
@@ -136,8 +136,8 @@
 			(095) <span id="phone">545-54-54</span>
 			<div id="address">Москва, шоссе Энтузиастов 45/31, офис 453</div>
 		</div>	
-	</div>
-	<!-- Шапка (The End)--> 
+	</div>Шапка (The End)--> 
+	
 
 
 	<!-- Вся страница --> 
